@@ -1,4 +1,3 @@
-## Hi there 👋
 ## 🚀 About Me
 
 👋🏽 Hello! My name is Zahadad, or you can just call me Z :)!
