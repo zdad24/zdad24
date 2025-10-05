@@ -1,11 +1,20 @@
 ## Hi there 👋
+🚀 About Me
+👋🏽 Hello! My name is Zahadad, or you can just call me Z :)!
 
+🎓 Computer Science Major Student @ York Univeristy
+
+😀 I aspire to work in a passion driven team to develop solutions which will decorate everyday lives
+
+👀 I'm currently looking for Summer 2026 Internhips
+
+⚡️ Fun fact: I love going to the gym and playing basketall! 🏀
 <!--
 **zdad24/zdad24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... 
+- 🔭 I’m currently working on ...  
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
