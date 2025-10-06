@@ -9,6 +9,8 @@
 👀 I'm currently looking for Summer 2026 Internhips
 
 ⚡️ Fun fact: I love going to the gym and playing basketall! 🏀
+
+(This README is a work in progress. Thank you for visitng my profile!)
 <!--
 **zdad24/zdad24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
