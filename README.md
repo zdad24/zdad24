@@ -89,8 +89,3 @@ I'm always open to interesting conversations and collaboration opportunities!
 - [ ] Master data structures & algorithms
 - [ ] Expand AI/ML knowledge
 
----
-
-**Thanks for stopping by! Feel free to explore my repositories and don't hesitate to reach out! 🚀**
-
-</div>
