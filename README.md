@@ -70,16 +70,6 @@ Currently working on exciting projects involving AI, web development, and data s
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/zdad24/zdad24/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 📫 Let's Connect!
 
 I'm always open to interesting conversations and collaboration opportunities!
@@ -98,11 +88,6 @@ I'm always open to interesting conversations and collaboration opportunities!
 - [ ] Learn cloud technologies (AWS/Azure)
 - [ ] Master data structures & algorithms
 - [ ] Expand AI/ML knowledge
-
----
-
-### 👀 Profile Views
-![Visitor Count](https://profile-counter.glitch.me/zdad24/count.svg)
 
 ---
 
