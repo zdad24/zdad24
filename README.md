@@ -69,16 +69,6 @@ Currently working on exciting projects involving AI, web development, and data s
 
 ---
 
-## 📫 Let's Connect!
-
-I'm always open to interesting conversations and collaboration opportunities!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/zahadad-jarif/)
-- 📧 [Email](mailto:zahadad14@gmail.com)
-- 🐙 [GitHub](https://github.com/zdad24)
-
----
-
 ## 🎯 2025 Goals
 
 - [ ] Land a Summer 2026 Software Engineering Internship
