@@ -62,7 +62,6 @@ const zahadad = {
 - Built with **React, TypeScript, Firebase, Gemini AI**
 - Reduces group planning time by **75%**
 - Real-time collaboration for up to **20 users**
-- Winner at **NewHacks 2025** 🏅
 
 ### 🔗 More Projects Coming Soon!
 Currently working on exciting projects involving AI, web development, and data science!
