@@ -55,19 +55,6 @@ const zahadad = {
 
 ---
 
-## 🏆 Featured Projects
-
-### 🌍 [OutTheGroupChat](https://github.com/Polymatth/OutTheGroupChat)
-> AI-Powered Collaborative Travel Planning Platform
-- Built with **React, TypeScript, Firebase, Gemini AI**
-- Reduces group planning time by **75%**
-- Real-time collaboration for up to **20 users**
-
-### 🔗 More Projects Coming Soon!
-Currently working on exciting projects involving AI, web development, and data science!
-
----
-
 ## 🎯 2025 Goals
 
 - [ ] Land a Summer 2026 Software Engineering Internship
