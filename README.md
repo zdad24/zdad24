@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Zahadad Jarif</h1>
-<h3 align="center">A passionate software engineer in Toronto, Canada</h3>
+<h3 align="center">A passionate Fullstack Software Engineer in Toronto, Canada</h3>
 
 ## 📝 About Me:
 
