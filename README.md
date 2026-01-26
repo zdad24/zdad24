@@ -1,66 +1,48 @@
-<div align="center">
-  
-# 👋🏽 Hey there, I'm Zahadad (Z)!
+<h1 align="center">Hi 👋, I am Zahadad Jarif</h1>
+<h3 align="center">A passionate software engineer in Toronto, Canada</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3BACED&center=true&vCenter=true&random=false&width=600&lines=Computer+Science+Student+%40+York+U;Full-Stack+Developer;Aspiring+Software+Engineer;Building+Solutions+That+Matter" alt="Typing SVG" />
+## 📝 About Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahadad-jarif/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zahadad14@gmail.com)
+#### 🔧 I'm currently working on fixing the features on [MemoryLane](https://ctrl-f-my-life.tech)
+#### 🏀 I love playing basketball and going to the gym almost everyday
 
-</div>
+## 🌐 Socials:
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zahadad-jarif)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zahadad14@gmail.com)
 
-## 🚀 About Me
+## 💻 Technical Skills
 
-```javascript
-const zahadad = {
-    pronouns: "he/him",
-    location: "Toronto, ON 🇨🇦",
-    education: "Computer Science @ York University",
-    currentFocus: "Full-Stack Development & AI Integration",
-    lookingFor: "Summer 2026 Internships",
-    interests: ["Basketball 🏀", "Gym 💪", "Technology", "Problem Solving"],
-    funFact: "I love building things that make people's lives easier!",
-    currentlyLearning: ["Advanced Algorithms", "Cloud Computing", "AI/ML"],
-};
-```
-
-🎓 **Computer Science Major** at York University  
-💼 **Open to Summer 2026 Internship Opportunities**  
-💡 Passionate about developing **innovative solutions** that positively impact everyday lives  
-🏀 When I'm not coding, you'll find me at the **gym** or on the **basketball court**!
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Frameworks
+### 🟠 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly_(RISC--V)-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🌐 Frontend Development
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### ☁️ Backend, Database & Cloud
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-## 🎯 2025 Goals
-
-- [ ] Land a Summer 2026 Software Engineering Internship
-- [ ] Contribute to open-source projects
-- [ ] Build 3+ full-stack applications
-- [ ] Learn cloud technologies (AWS/Azure)
-- [ ] Master data structures & algorithms
-- [ ] Expand AI/ML knowledge
-
+### 🛠 Tools & APIs
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
