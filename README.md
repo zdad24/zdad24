@@ -3,7 +3,7 @@
 
 ## 📝 About Me:
 
-#### 🔧 I'm currently working on fixing the features on [MemoryLane](https://ctrl-f-my-life.tech)
+#### 🔧 I'm currently working on creaing ReRoute
 #### 👾 I love to code, problem solve and focused on learning something new everday! 
 #### 🏀 I love playing basketball and going to the gym almost everyday!
 
